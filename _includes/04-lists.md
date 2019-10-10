@@ -1,3 +1,3 @@
 - [x] Apple
-- [] Google
-- [] Microsoft
+- [ ] Google
+- [ ] Microsoft
