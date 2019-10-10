@@ -1,1 +1,1 @@
-https://jdure.github.io/markdown-portfolio/
+[GitHub](http://github.com)
